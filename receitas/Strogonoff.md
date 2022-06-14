@@ -1,18 +1,18 @@
 # INGREDIENTES
 
-3 peitos de frango cortados em cubos
-1 dente de alho picado
-sal e pimenta a gosto
-1 cebola picada
-2 colheres (sopa) de maionese
-1 colher de manteiga
-1/2 copo de ketchup
-1/3 copo de mostarda
-1 copo de cogumelos
-1 copo de creme de leite
+<li> 3 peitos de frango cortados em cubos
+<li> 1 dente de alho picado
+<li> sal e pimenta a gosto
+<li> 1 cebola picada
+<li> 2 colheres (sopa) de maionese
+<li> 1 colher de manteiga
+<li> 1/2 copo de ketchup
+<li> 1/3 copo de mostarda
+<li> 1 copo de cogumelos
+<li> 1 copo de creme de leite
 
 
-MODO DE PREPARO
+## MODO DE PREPARO
 
 Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
